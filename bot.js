@@ -21,8 +21,8 @@ const fs = require('fs');
 const queue = new Map();
 const client = new Discord.Client();
 const adminprefix = "k!";
-const devs = ['ID','','','','']; // بتحط الايدي بتاعك , انتا والتيم حقك
-const prefix = 'prefix'
+const devs = ['470712192329711628']; // بتحط الايدي بتاعك , انتا والتيم حقك
+const prefix = '.'
 
 client.on('ready', () => {
 	// - 
