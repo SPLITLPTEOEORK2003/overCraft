@@ -618,3 +618,4 @@ if (message.content.startsWith(adminprefix + 'setT')) {
 
 
 client.login(process.env.TOKEN);
+
